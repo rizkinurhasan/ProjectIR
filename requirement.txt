@@ -1,4 +1,4 @@
-Pytorch
-Pytest
+torch 1.13.1
+pytest-warnings 0.3.1
 streamlit
 transformers
