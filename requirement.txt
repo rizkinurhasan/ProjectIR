@@ -1,4 +1,4 @@
-torch
-warnings
+Torch
+pytest-warnings
 streamlit
 transformers
