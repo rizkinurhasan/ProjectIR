@@ -1,4 +1,4 @@
-torchvision
+torch
 pytest-warnings 0.3.1
 streamlit
 transformers
